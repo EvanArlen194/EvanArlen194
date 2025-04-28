@@ -89,7 +89,7 @@ print(me.greet())
 
 <div align="center">
   <p>I'm always interested in collaborating on innovative ML projects or discussing the latest developments in AI.</p>
-  <p>Feel free to reach out via <a href="https://linkedin.com/in/evan-arlen-handy-a42683264">LinkedIn</a> or email at <a href="cloaaa00@gmail.com">Email</a>a></p>
+  <p>Feel free to reach out via <a href="https://linkedin.com/in/evan-arlen-handy-a42683264">LinkedIn</a> or email at <a href="cloaaa00@gmail.com">Email</a></p>
 </div>
 
 <div align="center">
